@@ -1,0 +1,12 @@
+FileName,Password,Output Folder,Time,Sections,Half Round Up,Simple Rounding,Add Percentage Sign,Header Row
+44.HAM.2095 PS (5).xlsx,erh1,import45,,PDL,PDL-Up Time Percent,MRL-PID based VOC Recovery Rate (lbs/day),PDL-Up Time Percent,1
+,,,,MRL,PDL-Down Time Percent,MRL-Estimated Cumulative Mass Removed by PID (lbs),PDL-Down Time Percent,
+,,,,CDL,PDL-Total Up Time Percent,CDL-Blower Effluent Air Flow Rate (SCFM),PDL-Total Up Time Percent,
+,,,,TDL,PDL-Total Down Time Percent,CDL-Blower In Air Flow Rate (SCFM),PDL-Total Down Time Percent,
+,,,,MDL,PDL-Percent Energy,TDL-Vapor In (°C),PDL-Percent Energy,
+,,,,,,TDL-Vapor Out (°C),,
+,,,,,,TDL-Blower Out (°C),,
+,,,,,,TDL-Hx Water In (°C),,
+,,,,,,TDL-Hx Water Out (°C),,
+,,,,,,TDL-Stack (°C),,
+,,,,,,TDL-Site Average,,
